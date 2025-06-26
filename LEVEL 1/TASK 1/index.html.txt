@@ -8,13 +8,13 @@
 </head>
 <body>
   <header>
-    <h1>Ansh Koshti</h1>
+    <h1>Gohil Jaydipsinh</h1>
     <p>Turning ideas into clean code.</p>
   </header>
 
   <section class="about">
     <img src="my-photo.jpg" alt="My Photo"/>
-    <p>Hello! I'm Ansh, a web enthusiast who enjoys bringing websites to life. I focus on writing clean, efficient code and love learning new technologies.</p>
+    <p>Hello! I'm Jaydip, a web enthusiast who enjoys bringing websites to life. I focus on writing clean, efficient code and love learning new technologies.</p>
   </section>
 
   <section class="skills">
@@ -48,12 +48,12 @@
 
   <section class="contact">
     <h2>Let's Connect</h2>
-    <p>Email: ansh@example.com</p>
+    <p>Email: jaydip@example.com</p>
     <p>Phone: +91-9876543210</p>
   </section>
 
   <footer>
-    <p>© 2025 Ansh Koshti. Built with love and a bit of caffeine ☕.</p>
+    <p>© 2025 Jaydip Gohil. Built with love and a bit of caffeine ☕.</p>
   </footer>
 </body>
 </html>
